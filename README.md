@@ -15,36 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! My name is Elias Gonçalves Sulzek 🤓👋
+### Hello! Welcome to my profile, My name is Elias Gonçalves Sulzek 🤓👋
 
 - Studying Software Engineering 
-
+<div id="languages">
+  
 - I have knowledge in programming languages:
+  
+  <img align="center" alt="CSS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+
+
 
 My Social Networks:
 
 <a href="https://www.linkedin.com/in/elias-sulzek-26b259233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<div id="status">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliassulzek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassulzek&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+</div>
 
+<br>
 
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-![Eliassulzek GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassulzek&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassulzek&layout=donut)](https://github.com/eliassulzek/github-readme-stats)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=eliassulzek&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
