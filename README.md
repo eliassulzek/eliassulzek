@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! Welcome to my profile, My name is Elias Gonçalves Sulzek 🤓👋
+ <div align="center"> Hello and welcome to my profile! 🤓👋 </div> 
+ <br>
+ <br>
 
-![Imagem Animada]("C:\Users\PC Gamer\Downloads\Hello World.gif")
+<div align="center"> 
+<img height="400em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
+</div> 
 
+<br>
 
+<div align="center"> My name is Elias Gonçalves Sulzek. I am passionate about technology and software development. Here on GitHub, you'll find a collection of my projects and contributions, showcasing my dedication to continuous learning and problem-solving. </div>
+<br>
 
 - Studying Software Engineering 
 <div id="languages">
@@ -36,8 +43,6 @@ Here are some ideas to get you started:
 - Focus on development, I have knowledge in markup languages ​​and web programming, I'm looking to become a Fullstack Dev 
 
 <br>
-
-
 
 My Social Networks:
 
