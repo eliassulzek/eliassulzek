@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ### Hello! Welcome to my profile, My name is Elias Gonçalves Sulzek 🤓👋
 
+![Imagem Animada]("C:\Users\PC Gamer\Downloads\Hello World.gif")
+
+
+
 - Studying Software Engineering 
 <div id="languages">
   
@@ -25,8 +29,11 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
 </div>
+
+- Focus on development, I have knowledge in markup languages ​​and web programming, I'm looking to become a Fullstack Dev 
 
 <br>
 
@@ -44,5 +51,3 @@ My Social Networks:
 </div>
 
 <br>
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=eliassulzek&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
