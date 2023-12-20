@@ -20,8 +20,7 @@ Here are some ideas to get you started:
  <br>
 
 <div align="center"> 
-<img height="400em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
-</div> 
+<img height="400em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> </div> 
 
 <br>
 
