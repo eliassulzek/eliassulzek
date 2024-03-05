@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>Hello and welcome to my profile! 🤓👋</h1>
+  <h1>Hello and welcome to my profile! 👋</h1>
   <img height="300em" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">
   <p>My name is Elias Gonçalves Sulzek. I am passionate about technology and software development. Here on GitHub, you'll find a collection of my projects and contributions, showcasing my dedication to continuous learning and problem-solving.</p>
 </div>
