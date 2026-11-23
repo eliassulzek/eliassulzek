@@ -4,7 +4,7 @@
 
 ### Backend Developer focused on Java & Software Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+Boot;Software+Engineering+Graduate;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Software+Engineering;Software+Engineering+Graduate;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -22,11 +22,11 @@
 
 💼 Experience with Java back-end, Oracle SQL, REST APIs and enterprise environments
 
-📚 Currently studying Spring Boot, REST APIs and Software Architecture
+🎯 Focus areas: Java, REST APIs, SQL and Software Architecture
 
-🧠 Interested in scalable systems and modern applications
+🧠 Interested in AI-powered back-end systems and modern applications
 
-🚀 Evolving towards Fullstack Development
+🚀 Growing towards end-to-end development, with AI integration
 
 </td>
 
@@ -48,7 +48,11 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,git,github,postman,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" />
+
+<br/><br/>
+
+SQL (Oracle) · REST APIs
 
 </div>
 
@@ -56,7 +60,7 @@
 
 <div align="center">
 
-## 📚 Currently Learning
+## 🎯 Focus Areas
 
 </div>
 
@@ -66,10 +70,10 @@
 
 ### Backend
 
-Spring Boot  
+Java  
 REST APIs  
-JWT Authentication  
-Clean Architecture  
+Software Architecture  
+Clean Code  
 
 </td>
 
@@ -77,25 +81,28 @@ Clean Architecture
 
 ### Database
 
-PostgreSQL  
+SQL  
 Database Modeling  
-SQL Optimization  
 
 </td>
 
 <td align="center" width="220">
 
-### Tools
+### Tools & AI
 
-Docker  
 Git & GitHub  
 Postman  
+AI-Assisted Development  
+AI Integration (LLM APIs)  
 
 </td>
 </tr>
 </table>
 
 ---
+
+<!--
+Seção de projetos: descomente quando tiver um projeto que você consiga explicar com segurança.
 
 <div align="center">
 
@@ -109,8 +116,7 @@ Postman
 
 ### 🧁 App-Cupcake
 
-Final project of my Software Engineering degree.  
-<!-- trocar por uma frase: o que faz + stack -->
+Descrição em uma frase.
 
 [View repository](https://github.com/eliassulzek/App-Cupcake)
 
@@ -119,6 +125,7 @@ Final project of my Software Engineering degree.
 </table>
 
 ---
+-->
 
 <div align="center">
 
@@ -132,7 +139,7 @@ Final project of my Software Engineering degree.
 
 ### 🚀 Backend Development
 
-Build robust and scalable backend applications using Java and Spring Boot.
+Build robust and scalable backend applications using Java.
 
 </td>
 
@@ -140,15 +147,15 @@ Build robust and scalable backend applications using Java and Spring Boot.
 
 ### 🧠 Software Architecture
 
-Improve knowledge in clean architecture and best development practices.
+Apply clean architecture and best development practices.
 
 </td>
 
 <td align="center" width="250">
 
-### 🌎 Fullstack Evolution
+### 🌎 End-to-End & AI
 
-Expand skills towards modern Fullstack application development.
+Expand towards end-to-end development and AI-integrated applications.
 
 </td>
 </tr>
