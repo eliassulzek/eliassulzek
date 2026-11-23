@@ -52,7 +52,8 @@
 
 <br/><br/>
 
-SQL (Oracle) · REST APIs
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
 
 </div>
 
@@ -60,13 +61,13 @@ SQL (Oracle) · REST APIs
 
 <div align="center">
 
-## 🎯 Focus Areas
+## 🧭 Focus Areas
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="220">
+<td align="center" valign="top" width="220">
 
 ### Backend
 
@@ -77,7 +78,7 @@ Clean Code
 
 </td>
 
-<td align="center" width="220">
+<td align="center" valign="top" width="220">
 
 ### Database
 
@@ -86,7 +87,7 @@ Database Modeling
 
 </td>
 
-<td align="center" width="220">
+<td align="center" valign="top" width="220">
 
 ### Tools & AI
 
@@ -112,7 +113,7 @@ Seção de projetos: descomente quando tiver um projeto que você consiga explic
 
 <table align="center">
 <tr>
-<td align="center" width="360">
+<td align="center" valign="top" width="360">
 
 ### 🧁 App-Cupcake
 
@@ -135,7 +136,7 @@ Descrição em uma frase.
 
 <table align="center">
 <tr>
-<td align="center" width="250">
+<td align="center" valign="top" width="250">
 
 ### 🚀 Backend Development
 
@@ -143,7 +144,7 @@ Build robust and scalable backend applications using Java.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" valign="top" width="250">
 
 ### 🧠 Software Architecture
 
@@ -151,7 +152,7 @@ Apply clean architecture and best development practices.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" valign="top" width="250">
 
 ### 🌎 End-to-End & AI
 
@@ -167,13 +168,8 @@ Expand towards end-to-end development and AI-integrated applications.
 
 ## 🌎 Connect With Me
 
-<a href="https://linkedin.com/in/elias-sulzek-26b259233">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/eliassulzek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/elias-sulzek-26b259233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/eliassulzek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
